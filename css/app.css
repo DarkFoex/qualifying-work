@@ -1,0 +1,31 @@
+.answers {
+    padding:15px;
+    background:#f7f7f7;
+    margin-top:15px;
+}
+textarea {
+    height:150px;
+}
+.divider {
+    margin-top:10px;
+    padding-top:5px;
+    border-top:#ddd 1px solid;
+}
+.result-print {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.test_card{
+    border: 1px solid #C4C4C4;
+}
+progress {
+    background-color: #ffffff;
+    border: 1;
+    width: 30%;
+    height: 10px;
+}
+progress::-moz-progress-bar { background: #016647; }
+progress::-webkit-progress-value { background: #016647; }
+progress { color: #016647; }

@@ -1,0 +1,9 @@
+.card {
+	width: 32%;
+	margin-left: 1%;
+}
+.form-signin{
+	max-width: 400px;
+	padding: 15px;
+	margin: 0;
+}
